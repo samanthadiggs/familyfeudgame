@@ -1,0 +1,12 @@
+gameOn = True
+team1_pts = 0
+team2_pts = 0
+team1_strikes = 0
+team2_strikes = 0
+answer_reveaked = False
+round_num = 0
+round_start = False
+total_round_pts = 0
+game_selection = ""
+name_selection = True
+name_satisfied = "Y"
